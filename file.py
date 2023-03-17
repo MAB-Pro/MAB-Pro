@@ -2,7 +2,7 @@ from builtins import *
 from math import prod as Cube
 
 
-__obfuscator__ = 'MAB Pro'
+__obfuscator__ = 'HOP'
 __authors__ = ("Muhammad Hamza")
 __github__ = 'https://github.com/MAB-Pro/file'
 __license__ = 'EPL-2.0'
