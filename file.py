@@ -4,7 +4,7 @@ from math import prod as Cube
 
 __obfuscator__ = 'HOP'
 __authors__ = ("Muhammad Hamza")
-__github__ = 'https://github.com/MAB-Pro/file'
+__github__ = 'https://github.com/hop09/hop'
 __license__ = 'EPL-2.0'
 
 __code__ = 'print(" Hello world! This is HOP OBF")'
