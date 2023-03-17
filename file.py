@@ -2,12 +2,12 @@ from builtins import *
 from math import prod as Cube
 
 
-__obfuscator__ = 'HOP'
-__authors__ = ("Muhammad Hamza")
-__github__ = 'https://github.com/hop09/hop'
-__license__ = 'EPL-2.0'
+__obfuscator__ = 'MAB Pro'
+__authors__ = ("Mansab Ali")
+__github__ = 'https://github.com/MAB-pro/MAB-pro'
+__license__ = 'EPL-1.0'
 
-__code__ = 'print(" Hello world! This is HOP OBF")'
+__code__ = 'print(" Hello world! This is MAB Pro OBF")'
 
 
 Run, _walk, _divide, Frame, Statistics, _memoryaccess, _ceil = exec, str, tuple, map, ord, globals, type
