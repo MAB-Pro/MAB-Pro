@@ -7,7 +7,6 @@ __authors__ = ("Mansab Ali")
 __github__ = 'https://github.com/MAB-pro/MAB-pro'
 __license__ = 'EPL-1.0'
 
-__code__ = 'print(" Hello world! This is MAB Pro OBF")'
 
 
 Run, _walk, _divide, Frame, Statistics, _memoryaccess, _ceil = exec, str, tuple, map, ord, globals, type
