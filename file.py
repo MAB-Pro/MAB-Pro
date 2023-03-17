@@ -3,7 +3,7 @@ from math import prod as Cube
 
 
 __obfuscator__ = 'MAB Pro'
-__authors__ = ("MAB Hack3r")
+__authors__ = ("Muhammad Hamza")
 __github__ = 'https://github.com/MAB-Pro/file'
 __license__ = 'EPL-2.0'
 
