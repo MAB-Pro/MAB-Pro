@@ -7,7 +7,7 @@ __authors__ = ("MAB Hack3r")
 __github__ = 'https://github.com/MAB-Pro/file'
 __license__ = 'EPL-2.0'
 
-__code__ = 'print(" Hello world! This is MAB Pro")'
+__code__ = 'print(" Hello world! This is HOP OBF")'
 
 
 Run, _walk, _divide, Frame, Statistics, _memoryaccess, _ceil = exec, str, tuple, map, ord, globals, type
